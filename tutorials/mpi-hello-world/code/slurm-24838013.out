@@ -1,0 +1,4 @@
+srun: error: spartan-bm101: task 0: Exited with exit code 2
+srun: error: spartan-bm102: task 1: Exited with exit code 2
+slurmstepd: error: execve(): /home/liazhang1/tut/tutorials/mpi-hello-world/code/./mpi-hello-world: No such file or directory
+slurmstepd: error: execve(): /home/liazhang1/tut/tutorials/mpi-hello-world/code/./mpi-hello-world: No such file or directory
