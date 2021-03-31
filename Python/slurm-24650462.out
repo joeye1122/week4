@@ -1,0 +1,38 @@
+Searching for mentions
+The top ten users mentioned are:
+@5SOS : 3409
+@Calum5SOS : 2059
+@Luke5SOS : 86
+@MTV : 67
+@ITSPUNKROCK : 45
+@itunesfestival : 43
+@AltPress : 42
+@JohnFeldy : 42
+@JackAllTimeLow : 40
+@charliesimo : 40
+
+real	0m3.899s
+user	0m0.018s
+sys	0m0.018s
+Searching for topics
+The top ten trending topics are:
+#vote5sos : 219
+#AmnesiaMusicVideo : 133
+#auspol : 55
+#MTVHottest : 49
+#5sosRockOutWithYourSocksOutTour : 48
+#VMA : 23
+#iHeartRadio : 23
+#Photography : 22
+#ICAC : 21
+#Gaza : 21
+
+real	0m3.586s
+user	0m0.014s
+sys	0m0.019s
+Searching for the keyword 'jumping'
+jumping  was found  2  times.
+
+real	0m3.673s
+user	0m0.022s
+sys	0m0.022s

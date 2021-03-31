@@ -1,0 +1,48 @@
+Searching for mentions
+The top ten users mentioned are:
+@5SOS : 3409
+@Calum5SOS : 2059
+@Luke5SOS : 86
+@MTV : 67
+@ITSPUNKROCK : 45
+@itunesfestival : 43
+@AltPress : 42
+@JohnFeldy : 42
+@charliesimo : 40
+@JackAllTimeLow : 40
+
+real	0m6.219s
+user	0m4.434s
+sys	0m0.142s
+Searching for topics
+The top ten users mentioned are:
+@5SOS : 3409
+@Calum5SOS : 2059
+@Luke5SOS : 86
+@MTV : 67
+@ITSPUNKROCK : 45
+@itunesfestival : 43
+@AltPress : 42
+@JohnFeldy : 42
+@JackAllTimeLow : 40
+@charliesimo : 40
+
+real	0m4.498s
+user	0m4.358s
+sys	0m0.100s
+Searching for the keyword 'jumping'
+The top ten users mentioned are:
+@5SOS : 3409
+@Calum5SOS : 2059
+@Luke5SOS : 86
+@MTV : 67
+@ITSPUNKROCK : 45
+@itunesfestival : 43
+@JohnFeldy : 42
+@AltPress : 42
+@JackAllTimeLow : 40
+@charliesimo : 40
+
+real	0m4.487s
+user	0m4.342s
+sys	0m0.103s
